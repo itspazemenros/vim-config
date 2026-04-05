@@ -10,3 +10,6 @@ Personal development log — notes, findings, and ongoing work.
 - Bumped patch version
 - Wrote notes on upcoming feature design
 - Removed unused variable declarations
+
+## 2026-04-06
+- Documented config options
